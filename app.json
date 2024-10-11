@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "meals-app",
-    "slug": "meals-app",
+    "name": "quan-ly-chi-tieu",
+    "slug": "quan-ly-chi-tieu",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
